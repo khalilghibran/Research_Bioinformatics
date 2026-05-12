@@ -1,0 +1,2 @@
+learning_rate,batch_size,gru_units,dense_units,dropout,dense_dropout
+0.001768637497672339,50,104,64,0.3525006802552025,0.4

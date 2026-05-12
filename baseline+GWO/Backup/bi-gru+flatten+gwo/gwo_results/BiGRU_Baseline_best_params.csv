@@ -1,0 +1,2 @@
+learning_rate,batch_size,gru_units,dropout
+0.004020046716472541,146,86,0.5

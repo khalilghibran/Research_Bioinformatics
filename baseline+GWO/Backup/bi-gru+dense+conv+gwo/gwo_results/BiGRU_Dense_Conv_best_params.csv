@@ -1,0 +1,2 @@
+learning_rate,batch_size,gru_units,dropout,cnn_filters,dense_units
+0.0018053180176007659,63,69,0.14792322878061193,57,81

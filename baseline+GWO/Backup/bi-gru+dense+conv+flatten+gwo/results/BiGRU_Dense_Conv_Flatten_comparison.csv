@@ -1,0 +1,3 @@
+Model,Learning_Rate,Batch_Size,GRU_Units,CNN_Filters,Dense_Units,Dropout,Val_F1,Val_Acc,Test_F1,Test_Acc,Test_Precision,Test_Recall,Training_Time
+Baseline,0.0003,64,64,64,32,0.3,0.9393,0.9402,0.9493,0.9493,0.9732,0.9266,0:04:42
+GWO-Optimised,0.0032963423865816984,285,103,88,46,0.3186727452923584,0.9386,0.9402,0.9455,0.946,0.9806,0.9128,0:00:58
